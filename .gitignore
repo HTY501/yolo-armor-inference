@@ -1,0 +1,8 @@
+venv/
+build/
+cmake-build-debug/
+.idea/
+*.pt
+*.mp4
+__pycache__/
+.swp
